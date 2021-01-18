@@ -3272,7 +3272,7 @@ ul {
     width: 60px;
     line-height: 60px;
     border-radius: 50%;
-    background-color: #fdeae5;
+    background-color: #ffc775;
     display: inline-block;
     text-align: center;
     font-size: 22px;
@@ -3302,7 +3302,7 @@ ul {
 }
 
 .advance_feature .learning_member_text_iner .ti-stamp {
-    background-color: #fff0e0;
+    background-color: #ffc775;
 }
 
 .advance_feature .learning_member_text_iner h4 {
